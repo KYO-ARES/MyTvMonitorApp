@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TV Monitor</string>
+    <string name="tab_default_name">New Tab</string>
+    <string name="camera_default_name">Camera</string>
+    <string name="add_tab">Add Tab</string>
+    <string name="remove_tab">Remove Tab</string>
+    <string name="add_camera">Add Camera</string>
+    <string name="remove_camera">Remove Camera</string>
+
+    <!-- 添加以下搜索相关字符串 -->
+    <string name="search_hint">搜索摄像头或位置</string>
+    <string name="search_description">通过名称或IP地址搜索监控摄像头</string>
+
+    <!-- 如果使用TV搜索功能，还需要添加 -->
+    <string name="search_label">搜索监控</string>
+    <string name="search_menu_title">搜索</string>
+
+</resources>
